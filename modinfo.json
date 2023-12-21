@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "ttqol",
+  "name": "TTastic DashWorld QOL Changes",
+  "authors": [
+    "TTastic"
+  ],
+  "description": "QOL changes and features for the DashWorld Civ/RP server ONLY",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "",
+  }
+}
